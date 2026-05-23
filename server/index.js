@@ -52,8 +52,6 @@ app.use(cors({
         'http://localhost:4173',
         'http://127.0.0.1:5173',
         'http://127.0.0.1:4173',
-        'https://e-guide-fullstack.vercel.app',
-        'https://eguide-server.onrender.com',
         'https://eguide-deployment.onrender.com',
         'https://eguide-deployment.vercel.app/'
     ],
